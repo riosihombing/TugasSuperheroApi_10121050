@@ -1,0 +1,16 @@
+<!--
+  ~ Project Name : TugasSuperheroAPI_10121050
+  ~ Created by Rio
+  ~ Copyright (c) 2024. All rights reserverd.
+  ~ Last modified 7/14/24, 4:37 PM
+  -->
+<resources>
+<string name="app_name">TugasSuperheroAPI_10121050</string>
+
+<string name="superhero_intelligence">Intelligence</string>
+<string name="superhero_strength">Strength</string>
+<string name="superhero_speed">Speed</string>
+<string name="superhero_durability">Durability</string>
+<string name="superhero_power">Power</string>
+<string name="superhero_combat">Combat</string>
+</resources>
